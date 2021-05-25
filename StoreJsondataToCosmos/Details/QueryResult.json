@@ -1,0 +1,282 @@
+﻿[{"Correlation id":"9c1a11ef-5fc8-4860-8577-14b3b548ca5a","Operation name":"Register Microsoft DocumentDB resource provider","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"9c1a11ef-5fc8-4860-8577-14b3b548ca5a","Operation name":"Register Microsoft DocumentDB resource provider","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"1387ebd2-0378-48ae-a69f-b59b5546d9f6","Operation name":"Put blob container","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"1387ebd2-0378-48ae-a69f-b59b5546d9f6","Operation name":"Put blob container","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"c1ee4afa-6554-4295-9168-331f9d35b104","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"c1ee4afa-6554-4295-9168-331f9d35b104","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e3f4041f-af37-41e3-91bd-d6d456d46d37","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e3f4041f-af37-41e3-91bd-d6d456d46d37","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"c27b8afd-161b-43a5-b892-ad4957c7cb48","Operation name":"List Storage Account Keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"c27b8afd-161b-43a5-b892-ad4957c7cb48","Operation name":"List Storage Account Keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"73ba7c24-4857-49ad-8aa7-da113f105c1c","Operation name":"Generate Recommendations","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"73ba7c24-4857-49ad-8aa7-da113f105c1c","Operation name":"Generate Recommendations","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"28260fbe-d8e1-4ac1-9bb0-c22cb1494af3","Operation name":"List Storage Account Keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"28260fbe-d8e1-4ac1-9bb0-c22cb1494af3","Operation name":"List Storage Account Keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"212efa61-f5f2-47fa-bcdc-acf68b8cd657","Operation name":"Read database account readonly keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"212efa61-f5f2-47fa-bcdc-acf68b8cd657","Operation name":"Read database account readonly keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"cb36712f-a6db-41e7-9815-27a39d815b8c","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"cb36712f-a6db-41e7-9815-27a39d815b8c","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d9c6ab9d-686f-40cb-b9c2-2450402f0ee9","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d9c6ab9d-686f-40cb-b9c2-2450402f0ee9","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0e6c0ba1-7a3e-4a2d-a0da-d29b37515460","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0e6c0ba1-7a3e-4a2d-a0da-d29b37515460","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"6ee54e01-2d8a-44c0-9ddf-4efe76099b22","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"6ee54e01-2d8a-44c0-9ddf-4efe76099b22","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"19c84a6f-d13d-45fc-aa85-5deb4b640189","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"19c84a6f-d13d-45fc-aa85-5deb4b640189","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"c4a9f144-f7bf-4ab1-8aa9-bdc5ec02e4c9","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"c4a9f144-f7bf-4ab1-8aa9-bdc5ec02e4c9","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e1d33d2b-5712-41d5-ae6e-f416f6765abd","Operation name":"Generate Recommendations","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e1d33d2b-5712-41d5-ae6e-f416f6765abd","Operation name":"Generate Recommendations","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e1d33d2b-5712-41d5-ae6e-f416f6765abd","Operation name":"List Storage Account Keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e1d33d2b-5712-41d5-ae6e-f416f6765abd","Operation name":"List Storage Account Keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"5c4bca5f-1034-480d-a4b8-c9b8f7839881","Operation name":"Generate Recommendations","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"5c4bca5f-1034-480d-a4b8-c9b8f7839881","Operation name":"Generate Recommendations","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0d032565-a6d5-4c9c-92a4-8f8e46c525d5","Operation name":"List Storage Account Keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0d032565-a6d5-4c9c-92a4-8f8e46c525d5","Operation name":"List Storage Account Keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"eb21b00d-5f0c-4212-b59f-3d53576a6508","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"eb21b00d-5f0c-4212-b59f-3d53576a6508","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"50a80a81-e34e-40b9-ae52-cbd3dc0ea728","Operation name":"Write SQL stored procedure","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"50a80a81-e34e-40b9-ae52-cbd3dc0ea728","Operation name":"Write SQL stored procedure","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"50a80a81-e34e-40b9-ae52-cbd3dc0ea728","Operation name":"Write SQL stored procedure","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"60c69991-f51c-4d19-a172-8a10f645979e","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"60c69991-f51c-4d19-a172-8a10f645979e","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"42599399-c650-4ef5-9aa7-f7bcb449f934","Operation name":"Write SQL stored procedure","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"42599399-c650-4ef5-9aa7-f7bcb449f934","Operation name":"Write SQL stored procedure","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"42599399-c650-4ef5-9aa7-f7bcb449f934","Operation name":"Write SQL stored procedure","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"64b679b1-776e-43c4-973f-00ac6ee65944","Operation name":"Write SQL stored procedure","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"64b679b1-776e-43c4-973f-00ac6ee65944","Operation name":"Write SQL stored procedure","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"64b679b1-776e-43c4-973f-00ac6ee65944","Operation name":"Write SQL stored procedure","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d4975c23-1719-44ca-bc7d-d747f514448d","Operation name":"Write SQL stored procedure","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d4975c23-1719-44ca-bc7d-d747f514448d","Operation name":"Write SQL stored procedure","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d4975c23-1719-44ca-bc7d-d747f514448d","Operation name":"Write SQL stored procedure","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"ca48909b-c31c-4111-a29f-de6c0134fec5","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"ca48909b-c31c-4111-a29f-de6c0134fec5","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"4efb403e-3d0c-44be-9d63-53f14bd604f7","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"4efb403e-3d0c-44be-9d63-53f14bd604f7","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"87de7d2d-7f93-4677-9dd5-0b4a2779680c","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"87de7d2d-7f93-4677-9dd5-0b4a2779680c","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d1434149-8e30-4e50-9fff-f4a460f6a025","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d1434149-8e30-4e50-9fff-f4a460f6a025","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"52103070-ea61-4486-8d8c-e304973ff14f","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"52103070-ea61-4486-8d8c-e304973ff14f","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"c4582173-e78a-4e0a-8ffe-28075854d45b","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"c4582173-e78a-4e0a-8ffe-28075854d45b","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"746653b8-7e41-4235-9750-9e1c60496d24","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"746653b8-7e41-4235-9750-9e1c60496d24","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0579de87-8435-4c85-8693-e3a54195d051","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0579de87-8435-4c85-8693-e3a54195d051","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"4a9e18da-7cf0-41af-9637-2d9871151189","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"4a9e18da-7cf0-41af-9637-2d9871151189","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"64a9b7d1-82ac-4596-a7cc-6ddab57bf8ab","Operation name":"Write SQL container","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"64a9b7d1-82ac-4596-a7cc-6ddab57bf8ab","Operation name":"Write SQL container","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"64a9b7d1-82ac-4596-a7cc-6ddab57bf8ab","Operation name":"Write SQL container","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"14a5fbfb-d3f4-4196-8d9d-e75efba4cb43","Operation name":"Delete SQL container","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"14a5fbfb-d3f4-4196-8d9d-e75efba4cb43","Operation name":"Delete SQL container","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"14a5fbfb-d3f4-4196-8d9d-e75efba4cb43","Operation name":"Delete SQL container","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"dcd3aba3-6589-41fd-8441-69dbc64a6588","Operation name":"Write SQL container","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"dcd3aba3-6589-41fd-8441-69dbc64a6588","Operation name":"Write SQL container","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"dcd3aba3-6589-41fd-8441-69dbc64a6588","Operation name":"Write SQL container","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"6990adba-6cb9-48e3-b414-7e6599b49645","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"6990adba-6cb9-48e3-b414-7e6599b49645","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"856986f6-5603-41d5-852c-f4b7a8628003","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"856986f6-5603-41d5-852c-f4b7a8628003","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"837bc326-cc01-4388-8f78-2c2abb4c6847","Operation name":"Read database account readonly keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"837bc326-cc01-4388-8f78-2c2abb4c6847","Operation name":"Read database account readonly keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"8443c9aa-08be-4bd1-b13e-39b2ca6a78f1","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"8443c9aa-08be-4bd1-b13e-39b2ca6a78f1","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e5c972b2-f996-41f8-9a43-be82161eefe3","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e5c972b2-f996-41f8-9a43-be82161eefe3","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"2c1672b1-c85c-4704-8f94-8dcc62547a89","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"2c1672b1-c85c-4704-8f94-8dcc62547a89","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"16969024-e5f0-4245-8c02-41edc3cadf4d","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"16969024-e5f0-4245-8c02-41edc3cadf4d","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"14d4026e-32de-48c8-959f-9c1cbe8c4f86","Operation name":"Write SQL container","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"14d4026e-32de-48c8-959f-9c1cbe8c4f86","Operation name":"Write SQL container","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"14d4026e-32de-48c8-959f-9c1cbe8c4f86","Operation name":"Write SQL container","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"977a44f4-bad7-4c85-aabd-49e201c7dac0","Operation name":"Write SQL database","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"977a44f4-bad7-4c85-aabd-49e201c7dac0","Operation name":"Write SQL database","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"977a44f4-bad7-4c85-aabd-49e201c7dac0","Operation name":"Write SQL database","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"02485d00-0726-4d7c-a927-845a898f7fd8","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"02485d00-0726-4d7c-a927-845a898f7fd8","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"326e2b08-57c3-47a3-a52d-97a3ddafb4e5","Operation name":"Start","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"326e2b08-57c3-47a3-a52d-97a3ddafb4e5","Operation name":"Start","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"326e2b08-57c3-47a3-a52d-97a3ddafb4e5","Operation name":"Start","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"32a42264-c506-455b-83f5-4caa1499eb20","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"32a42264-c506-455b-83f5-4caa1499eb20","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"41138042-4440-468b-8c17-b07c02881b28","Operation name":"Read database account readonly keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"41138042-4440-468b-8c17-b07c02881b28","Operation name":"Read database account readonly keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"6c3c3255-81e7-4a6d-b80c-6002f370ef8b","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"6c3c3255-81e7-4a6d-b80c-6002f370ef8b","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a1356a09-ae03-4f60-a89d-ef5d408e5557","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a1356a09-ae03-4f60-a89d-ef5d408e5557","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d3f01fde-e2d3-4955-b579-adc628682a91","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d3f01fde-e2d3-4955-b579-adc628682a91","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"73d552ca-1297-4d83-bd97-071e8cc69b7f","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"73d552ca-1297-4d83-bd97-071e8cc69b7f","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"3e8759f9-7a9d-492c-ab86-8580e816be9a","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"3e8759f9-7a9d-492c-ab86-8580e816be9a","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"602ec87a-5341-4778-97c5-b7fef7c8d2b2","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"602ec87a-5341-4778-97c5-b7fef7c8d2b2","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"1ff3c363-e56b-4948-b98d-fad8a72b71bb","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"1ff3c363-e56b-4948-b98d-fad8a72b71bb","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"9bb1e63a-f1fb-4a89-981e-1bb17c246401","Operation name":"Read database account readonly keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"9bb1e63a-f1fb-4a89-981e-1bb17c246401","Operation name":"Read database account readonly keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b46f5053-a09f-40d7-b8b7-88d18ccf4d07","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b46f5053-a09f-40d7-b8b7-88d18ccf4d07","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"5b97c175-c56a-443b-bab0-ab45cfc773b6","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"5b97c175-c56a-443b-bab0-ab45cfc773b6","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"5642dc55-2ee7-4d51-9c85-84dc119026c6","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"5642dc55-2ee7-4d51-9c85-84dc119026c6","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a9c175db-a020-4028-b4ef-e5031bd331b4","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a9c175db-a020-4028-b4ef-e5031bd331b4","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"41e6e541-4ac8-416c-aef1-5dfdf51e376b","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"41e6e541-4ac8-416c-aef1-5dfdf51e376b","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"4abdd5ec-0624-42e7-ab2e-57e5a479b5ae","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"4abdd5ec-0624-42e7-ab2e-57e5a479b5ae","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e1cdac7e-016a-451c-9a42-1380613d4610","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e1cdac7e-016a-451c-9a42-1380613d4610","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"cbd30895-1e0e-464c-8e72-64cfe72a9483","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"cbd30895-1e0e-464c-8e72-64cfe72a9483","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"60ba914f-9813-486e-95d8-86abe6d65805","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"60ba914f-9813-486e-95d8-86abe6d65805","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"23835cb6-8a0c-4162-877f-6d5bf86b42a0","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"23835cb6-8a0c-4162-877f-6d5bf86b42a0","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"239cbef8-65db-48aa-bbeb-e7e0580febd9","Operation name":"View Redis Cache Access Keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"239cbef8-65db-48aa-bbeb-e7e0580febd9","Operation name":"View Redis Cache Access Keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e97607a1-a355-46d2-956c-214f0f669c48","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e97607a1-a355-46d2-956c-214f0f669c48","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"caca5259-b396-4b99-890c-55f94cc1120a","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"caca5259-b396-4b99-890c-55f94cc1120a","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fdb0889c-b8b2-4a16-a133-ad7c482d0fce","Operation name":"Read database account readonly keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fdb0889c-b8b2-4a16-a133-ad7c482d0fce","Operation name":"Read database account readonly keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"dfd21621-ace4-40f6-a660-d52f01690dd4","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"dfd21621-ace4-40f6-a660-d52f01690dd4","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"20dfe5c9-fd94-4b0d-881d-640e90827706","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"20dfe5c9-fd94-4b0d-881d-640e90827706","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e2f5780a-4139-401c-9a79-26636abcd69a","Operation name":"View Redis Cache Access Keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e2f5780a-4139-401c-9a79-26636abcd69a","Operation name":"View Redis Cache Access Keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"23f0520a-aec2-4a0a-b33e-d8dda777ee06","Operation name":"View Redis Cache Access Keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"23f0520a-aec2-4a0a-b33e-d8dda777ee06","Operation name":"View Redis Cache Access Keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e784d74d-3559-4d96-b34c-63adb2beeb2a","Operation name":"Create Deployment","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e784d74d-3559-4d96-b34c-63adb2beeb2a","Operation name":"Create Deployment","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e784d74d-3559-4d96-b34c-63adb2beeb2a","Operation name":"Create Deployment","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e784d74d-3559-4d96-b34c-63adb2beeb2a","Operation name":"Update Redis Cache","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e784d74d-3559-4d96-b34c-63adb2beeb2a","Operation name":"'audit' Policy action.","Status":"Succeeded","Event category":"Policy","Level":"Warning"}
+,{"Correlation id":"e784d74d-3559-4d96-b34c-63adb2beeb2a","Operation name":"Update Redis Cache","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"be715d50-e294-4265-a55f-4f5aaa7f76b0","Operation name":"Validate Deployment","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"be715d50-e294-4265-a55f-4f5aaa7f76b0","Operation name":"Validate Deployment","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"77138b5b-a5e0-40e5-a1d9-68528a15e1c3","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"77138b5b-a5e0-40e5-a1d9-68528a15e1c3","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e85d4ba2-243c-4f4c-83a7-b69b66000b0e","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e85d4ba2-243c-4f4c-83a7-b69b66000b0e","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d41ae4d8-137b-4d2d-bf95-e3e34752dd8b","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d41ae4d8-137b-4d2d-bf95-e3e34752dd8b","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a13aa56d-4d2c-494d-a05e-f1882cf42290","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a13aa56d-4d2c-494d-a05e-f1882cf42290","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"8400de46-ab9d-4806-867c-c3677c18a137","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"8400de46-ab9d-4806-867c-c3677c18a137","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d666c6a2-dbdd-4489-97e9-7ad10483e367","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d666c6a2-dbdd-4489-97e9-7ad10483e367","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0bf92dec-e76d-43c4-9e82-49c5ca32cdf7","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0bf92dec-e76d-43c4-9e82-49c5ca32cdf7","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"97c13f5f-63c8-4f9c-b733-d184b25bffac","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"97c13f5f-63c8-4f9c-b733-d184b25bffac","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"22876f41-9590-4039-ad02-df7af228f882","Operation name":"Check Cache Name Availability","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"22876f41-9590-4039-ad02-df7af228f882","Operation name":"Check Cache Name Availability","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0151f2ca-ad94-4e7b-afee-fef11ff3210a","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0151f2ca-ad94-4e7b-afee-fef11ff3210a","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b75b55ff-228e-4523-8cf5-290144c7b3e9","Operation name":"Start","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b75b55ff-228e-4523-8cf5-290144c7b3e9","Operation name":"Start","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b75b55ff-228e-4523-8cf5-290144c7b3e9","Operation name":"Start","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"771d7b6c-6aab-47d2-b7f3-9871447937bb","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"771d7b6c-6aab-47d2-b7f3-9871447937bb","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b4eb15c3-fc57-49cc-a1a8-c1cfe6b74e03","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b4eb15c3-fc57-49cc-a1a8-c1cfe6b74e03","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fbbd4f37-c72c-4939-a415-7894a1537a05","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"203c08b0-b538-46ba-84e6-af5fd5a745d2","Operation name":"Read database account readonly keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"203c08b0-b538-46ba-84e6-af5fd5a745d2","Operation name":"Read database account readonly keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"8b081430-e996-484a-880c-e19d1df8aef9","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"463279b8-295e-4339-aa81-39f253132deb","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fbbd4f37-c72c-4939-a415-7894a1537a05","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"8b081430-e996-484a-880c-e19d1df8aef9","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"463279b8-295e-4339-aa81-39f253132deb","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b6df3ad2-b1d3-4805-a529-78906b1c3e34","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b6df3ad2-b1d3-4805-a529-78906b1c3e34","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b218b95e-1df8-4c9b-bea1-7430dfc26574","Operation name":"Delete SQL database","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b218b95e-1df8-4c9b-bea1-7430dfc26574","Operation name":"Delete SQL database","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b218b95e-1df8-4c9b-bea1-7430dfc26574","Operation name":"Delete SQL database","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"cb476326-bcc9-4a1a-8cd5-d16d8b3b7185","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"cb476326-bcc9-4a1a-8cd5-d16d8b3b7185","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a44c4819-20fd-48f1-8253-81cf491ab8ea","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a44c4819-20fd-48f1-8253-81cf491ab8ea","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b9a6e125-8259-4df6-8f9e-178bb6e0e80d","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b9a6e125-8259-4df6-8f9e-178bb6e0e80d","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"25bfc854-c73d-45e5-801c-c595b2808dda","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"25bfc854-c73d-45e5-801c-c595b2808dda","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"17b522f3-0514-458a-8202-a1644b2c6624","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"17b522f3-0514-458a-8202-a1644b2c6624","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"54dc0229-85e1-42d5-aa6e-c36467c56315","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"54dc0229-85e1-42d5-aa6e-c36467c56315","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"8ddbbb19-9aa9-4b93-8920-a4226fa1e75e","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"8ddbbb19-9aa9-4b93-8920-a4226fa1e75e","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"db284198-1ff9-4aa7-906c-bb587eb6312f","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"db284198-1ff9-4aa7-906c-bb587eb6312f","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"00f41d90-edb7-4d48-ad45-3999f7e86d12","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"00f41d90-edb7-4d48-ad45-3999f7e86d12","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"5edda193-7732-4a20-9375-af85ea3c0b23","Operation name":"Incident","Status":"Resolved","Event category":"Service Health","Level":"Warning"}
+,{"Correlation id":"44a1e9e7-90d8-4fe1-b316-c961698733db","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"44a1e9e7-90d8-4fe1-b316-c961698733db","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"38625d51-a6a3-478d-9e27-b2e24073eac4","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"38625d51-a6a3-478d-9e27-b2e24073eac4","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"1fe99819-f70b-4f52-aa27-6c6dac3d8e7a","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"1fe99819-f70b-4f52-aa27-6c6dac3d8e7a","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d6af0a9a-2b76-4d55-810a-ace03d15a414","Operation name":"ListConnectionInfo","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"d6af0a9a-2b76-4d55-810a-ace03d15a414","Operation name":"ListConnectionInfo","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a81ab6a5-d4a9-4eb0-8988-312c8ad44b00","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"a81ab6a5-d4a9-4eb0-8988-312c8ad44b00","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"867a466a-90a9-4ea1-ae4f-8e433000a2fd","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"867a466a-90a9-4ea1-ae4f-8e433000a2fd","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"cad0397f-1f26-452d-802c-c79cd2732400","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"cad0397f-1f26-452d-802c-c79cd2732400","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0c72f71e-dd0c-403b-8549-ade84520d315","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0c72f71e-dd0c-403b-8549-ade84520d315","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"7a8aab31-e5b2-430d-adcf-045453d1753b","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"7a8aab31-e5b2-430d-adcf-045453d1753b","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e160f26f-dd70-4df3-89ac-8efe927e13ca","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"e160f26f-dd70-4df3-89ac-8efe927e13ca","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0bd53cba-92d2-4639-ad14-45d72452b27d","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"0bd53cba-92d2-4639-ad14-45d72452b27d","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"6176c9bf-5ed3-4be2-873a-7a7a8eff3284","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"6176c9bf-5ed3-4be2-873a-7a7a8eff3284","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"545dd20c-fdc1-4130-8068-4b7ae907c543","Operation name":"Get Connection Strings","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"545dd20c-fdc1-4130-8068-4b7ae907c543","Operation name":"Get Connection Strings","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b8270f51-27f0-43ff-a89e-116756a89feb","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b8270f51-27f0-43ff-a89e-116756a89feb","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"393f06af-ce24-45f9-8891-d0c5aeae218a","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"393f06af-ce24-45f9-8891-d0c5aeae218a","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"ec098a19-0c58-4a63-a333-a50dc6d12876","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"ec098a19-0c58-4a63-a333-a50dc6d12876","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"04d63690-8ae2-4ff2-846e-acb6e1c2620d","Operation name":"Read database account readonly keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"04d63690-8ae2-4ff2-846e-acb6e1c2620d","Operation name":"Read database account readonly keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"40a39ed3-758d-4423-810a-f9f0892f8631","Operation name":"List keys","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"40a39ed3-758d-4423-810a-f9f0892f8631","Operation name":"List keys","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"f3b31a03-8858-4a12-b02d-7387d61a4297","Operation name":"Backup","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"f3b31a03-8858-4a12-b02d-7387d61a4297","Operation name":"Backup","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Update database account","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Create Deployment","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Create Deployment","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Update database account","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"'audit' Policy action.","Status":"Succeeded","Event category":"Policy","Level":"Warning"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Update database account","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Write NotebookWorkspaces","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Update database account","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Write NotebookWorkspaces","Status":"Accepted","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Write NotebookWorkspaces","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Create Deployment","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"fb74df58-4be4-4b8d-960d-9f700c06f784","Operation name":"Update database account","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b217e4a2-dc6e-4759-a3c3-818c92203598","Operation name":"Validate Deployment","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"b217e4a2-dc6e-4759-a3c3-818c92203598","Operation name":"Validate Deployment","Status":"Started","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"f135e5e4-e07c-4d6b-ba2a-9c20a6a65a4f","Operation name":"Validate Deployment","Status":"Succeeded","Event category":"Administrative","Level":"Informational"}
+,{"Correlation id":"f135e5e4-e07c-4d6b-ba2a-9c20a6a65a4f","Operation name":"Validate Deployment","Status":"Started","Event category":"Administrative","Level":"Informational"}
+]

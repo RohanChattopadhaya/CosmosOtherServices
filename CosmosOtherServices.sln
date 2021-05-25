@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosOtherServices", "CosmosOtherServices\CosmosOtherServices.csproj", "{50685A38-0450-4BA7-9859-CB1038A4088D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoredProcedure", "StoredProcedure\StoredProcedure.csproj", "{32F2F209-E7CC-423D-867A-B414E2D61C9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlobTriggerToCosmos", "BlobTriggerToCosmos\BlobTriggerToCosmos.csproj", "{62FEDA16-5886-4A3B-B697-FC7AF26E53F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosTableClientOperations", "CosmosTableClientOperations\CosmosTableClientOperations.csproj", "{FCA1EA3F-9D5A-4F9E-942C-A66152480D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreJsondataToCosmos", "StoreJsondataToCosmos\StoreJsondataToCosmos.csproj", "{2286514C-1943-41BB-BAA8-FA71739A834D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50685A38-0450-4BA7-9859-CB1038A4088D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50685A38-0450-4BA7-9859-CB1038A4088D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50685A38-0450-4BA7-9859-CB1038A4088D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50685A38-0450-4BA7-9859-CB1038A4088D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F2F209-E7CC-423D-867A-B414E2D61C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F2F209-E7CC-423D-867A-B414E2D61C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F2F209-E7CC-423D-867A-B414E2D61C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F2F209-E7CC-423D-867A-B414E2D61C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FEDA16-5886-4A3B-B697-FC7AF26E53F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FEDA16-5886-4A3B-B697-FC7AF26E53F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FEDA16-5886-4A3B-B697-FC7AF26E53F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FEDA16-5886-4A3B-B697-FC7AF26E53F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA1EA3F-9D5A-4F9E-942C-A66152480D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA1EA3F-9D5A-4F9E-942C-A66152480D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA1EA3F-9D5A-4F9E-942C-A66152480D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA1EA3F-9D5A-4F9E-942C-A66152480D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2286514C-1943-41BB-BAA8-FA71739A834D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2286514C-1943-41BB-BAA8-FA71739A834D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2286514C-1943-41BB-BAA8-FA71739A834D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2286514C-1943-41BB-BAA8-FA71739A834D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45101254-16E3-419C-BC3D-DE41EDF6026D}
+	EndGlobalSection
+EndGlobal
